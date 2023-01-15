@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Taske 3 server react.props" />
+</Project>

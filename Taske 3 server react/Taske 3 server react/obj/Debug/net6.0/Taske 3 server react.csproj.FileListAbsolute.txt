@@ -1,0 +1,76 @@
+C:\Users\user\Desktop\oshrit\Studies\Year D\Semester A\Application\Taske 3 server react\Taske 3 server react\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user\Desktop\oshrit\Studies\Year D\Semester A\Application\Taske 3 server react\Taske 3 server react\bin\Debug\net6.0\appsettings.json
+C:\Users\user\Desktop\oshrit\Studies\Year D\Semester A\Application\Taske 3 server react\Taske 3 server react\bin\Debug\net6.0\Taske 3 server react.exe
+C:\Users\user\Desktop\oshrit\Studies\Year D\Semester A\Application\Taske 3 server react\Taske 3 server react\bin\Debug\net6.0\Taske 3 server react.deps.json
+C:\Users\user\Desktop\oshrit\Studies\Year D\Semester A\Application\Taske 3 server react\Taske 3 server react\bin\Debug\net6.0\Taske 3 server react.runtimeconfig.json
+C:\Users\user\Desktop\oshrit\Studies\Year D\Semester A\Application\Taske 3 server react\Taske 3 server react\bin\Debug\net6.0\Taske 3 server react.dll
+C:\Users\user\Desktop\oshrit\Studies\Year D\Semester A\Application\Taske 3 server react\Taske 3 server react\bin\Debug\net6.0\Taske 3 server react.pdb
+C:\Users\user\Desktop\oshrit\Studies\Year D\Semester A\Application\Taske 3 server react\Taske 3 server react\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\user\Desktop\oshrit\Studies\Year D\Semester A\Application\Taske 3 server react\Taske 3 server react\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Desktop\oshrit\Studies\Year D\Semester A\Application\Taske 3 server react\Taske 3 server react\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Desktop\oshrit\Studies\Year D\Semester A\Application\Taske 3 server react\Taske 3 server react\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Desktop\oshrit\Studies\Year D\Semester A\Application\Taske 3 server react\Taske 3 server react\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\user\Desktop\oshrit\Studies\Year D\Semester A\Application\Taske 3 server react\Taske 3 server react\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\user\Desktop\oshrit\Studies\Year D\Semester A\Application\Taske 3 server react\Taske 3 server react\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\user\Desktop\oshrit\Studies\Year D\Semester A\Application\Taske 3 server react\Taske 3 server react\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\user\Desktop\oshrit\Studies\Year D\Semester A\Application\Taske 3 server react\Taske 3 server react\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Desktop\oshrit\Studies\Year D\Semester A\Application\Taske 3 server react\Taske 3 server react\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Desktop\oshrit\Studies\Year D\Semester A\Application\Taske 3 server react\Taske 3 server react\obj\Debug\net6.0\Taske 3 server react.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\oshrit\Studies\Year D\Semester A\Application\Taske 3 server react\Taske 3 server react\obj\Debug\net6.0\Taske 3 server react.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\oshrit\Studies\Year D\Semester A\Application\Taske 3 server react\Taske 3 server react\obj\Debug\net6.0\Taske 3 server react.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\oshrit\Studies\Year D\Semester A\Application\Taske 3 server react\Taske 3 server react\obj\Debug\net6.0\Taske 3 server react.AssemblyInfo.cs
+C:\Users\user\Desktop\oshrit\Studies\Year D\Semester A\Application\Taske 3 server react\Taske 3 server react\obj\Debug\net6.0\Taske 3 server react.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\oshrit\Studies\Year D\Semester A\Application\Taske 3 server react\Taske 3 server react\obj\Debug\net6.0\Taske 3 server react.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Desktop\oshrit\Studies\Year D\Semester A\Application\Taske 3 server react\Taske 3 server react\obj\Debug\net6.0\Taske 3 server react.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\oshrit\Studies\Year D\Semester A\Application\Taske 3 server react\Taske 3 server react\obj\Debug\net6.0\staticwebassets\msbuild.Taske 3 server react.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Desktop\oshrit\Studies\Year D\Semester A\Application\Taske 3 server react\Taske 3 server react\obj\Debug\net6.0\staticwebassets\msbuild.build.Taske 3 server react.props
+C:\Users\user\Desktop\oshrit\Studies\Year D\Semester A\Application\Taske 3 server react\Taske 3 server react\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Taske 3 server react.props
+C:\Users\user\Desktop\oshrit\Studies\Year D\Semester A\Application\Taske 3 server react\Taske 3 server react\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Taske 3 server react.props
+C:\Users\user\Desktop\oshrit\Studies\Year D\Semester A\Application\Taske 3 server react\Taske 3 server react\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\user\Desktop\oshrit\Studies\Year D\Semester A\Application\Taske 3 server react\Taske 3 server react\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user\Desktop\oshrit\Studies\Year D\Semester A\Application\Taske 3 server react\Taske 3 server react\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user\Desktop\oshrit\Studies\Year D\Semester A\Application\Taske 3 server react\Taske 3 server react\obj\Debug\net6.0\scopedcss\bundle\Taske 3 server react.styles.css
+C:\Users\user\Desktop\oshrit\Studies\Year D\Semester A\Application\Taske 3 server react\Taske 3 server react\obj\Debug\net6.0\Taske 3 server react.csproj.CopyComplete
+C:\Users\user\Desktop\oshrit\Studies\Year D\Semester A\Application\Taske 3 server react\Taske 3 server react\obj\Debug\net6.0\Taske 3 server react.dll
+C:\Users\user\Desktop\oshrit\Studies\Year D\Semester A\Application\Taske 3 server react\Taske 3 server react\obj\Debug\net6.0\refint\Taske 3 server react.dll
+C:\Users\user\Desktop\oshrit\Studies\Year D\Semester A\Application\Taske 3 server react\Taske 3 server react\obj\Debug\net6.0\Taske 3 server react.pdb
+C:\Users\user\Desktop\oshrit\Studies\Year D\Semester A\Application\Taske 3 server react\Taske 3 server react\obj\Debug\net6.0\Taske 3 server react.genruntimeconfig.cache
+C:\Users\user\Desktop\oshrit\Studies\Year D\Semester A\Application\Taske 3 server react\Taske 3 server react\obj\Debug\net6.0\ref\Taske 3 server react.dll
+C:\Users\user\Desktop\oshrit\Studies\Year D\Semester A\Application\Task 3\Taske 3 server react\Taske 3 server react\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user\Desktop\oshrit\Studies\Year D\Semester A\Application\Task 3\Taske 3 server react\Taske 3 server react\bin\Debug\net6.0\appsettings.json
+C:\Users\user\Desktop\oshrit\Studies\Year D\Semester A\Application\Task 3\Taske 3 server react\Taske 3 server react\bin\Debug\net6.0\Taske 3 server react.exe
+C:\Users\user\Desktop\oshrit\Studies\Year D\Semester A\Application\Task 3\Taske 3 server react\Taske 3 server react\bin\Debug\net6.0\Taske 3 server react.deps.json
+C:\Users\user\Desktop\oshrit\Studies\Year D\Semester A\Application\Task 3\Taske 3 server react\Taske 3 server react\bin\Debug\net6.0\Taske 3 server react.runtimeconfig.json
+C:\Users\user\Desktop\oshrit\Studies\Year D\Semester A\Application\Task 3\Taske 3 server react\Taske 3 server react\bin\Debug\net6.0\Taske 3 server react.dll
+C:\Users\user\Desktop\oshrit\Studies\Year D\Semester A\Application\Task 3\Taske 3 server react\Taske 3 server react\bin\Debug\net6.0\Taske 3 server react.pdb
+C:\Users\user\Desktop\oshrit\Studies\Year D\Semester A\Application\Task 3\Taske 3 server react\Taske 3 server react\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\user\Desktop\oshrit\Studies\Year D\Semester A\Application\Task 3\Taske 3 server react\Taske 3 server react\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Desktop\oshrit\Studies\Year D\Semester A\Application\Task 3\Taske 3 server react\Taske 3 server react\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Desktop\oshrit\Studies\Year D\Semester A\Application\Task 3\Taske 3 server react\Taske 3 server react\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Desktop\oshrit\Studies\Year D\Semester A\Application\Task 3\Taske 3 server react\Taske 3 server react\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\user\Desktop\oshrit\Studies\Year D\Semester A\Application\Task 3\Taske 3 server react\Taske 3 server react\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\user\Desktop\oshrit\Studies\Year D\Semester A\Application\Task 3\Taske 3 server react\Taske 3 server react\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\user\Desktop\oshrit\Studies\Year D\Semester A\Application\Task 3\Taske 3 server react\Taske 3 server react\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\user\Desktop\oshrit\Studies\Year D\Semester A\Application\Task 3\Taske 3 server react\Taske 3 server react\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Desktop\oshrit\Studies\Year D\Semester A\Application\Task 3\Taske 3 server react\Taske 3 server react\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\Desktop\oshrit\Studies\Year D\Semester A\Application\Task 3\Taske 3 server react\Taske 3 server react\obj\Debug\net6.0\Taske 3 server react.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\oshrit\Studies\Year D\Semester A\Application\Task 3\Taske 3 server react\Taske 3 server react\obj\Debug\net6.0\Taske 3 server react.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\oshrit\Studies\Year D\Semester A\Application\Task 3\Taske 3 server react\Taske 3 server react\obj\Debug\net6.0\Taske 3 server react.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\oshrit\Studies\Year D\Semester A\Application\Task 3\Taske 3 server react\Taske 3 server react\obj\Debug\net6.0\Taske 3 server react.AssemblyInfo.cs
+C:\Users\user\Desktop\oshrit\Studies\Year D\Semester A\Application\Task 3\Taske 3 server react\Taske 3 server react\obj\Debug\net6.0\Taske 3 server react.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\oshrit\Studies\Year D\Semester A\Application\Task 3\Taske 3 server react\Taske 3 server react\obj\Debug\net6.0\Taske 3 server react.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Desktop\oshrit\Studies\Year D\Semester A\Application\Task 3\Taske 3 server react\Taske 3 server react\obj\Debug\net6.0\Taske 3 server react.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\oshrit\Studies\Year D\Semester A\Application\Task 3\Taske 3 server react\Taske 3 server react\obj\Debug\net6.0\staticwebassets\msbuild.Taske 3 server react.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Desktop\oshrit\Studies\Year D\Semester A\Application\Task 3\Taske 3 server react\Taske 3 server react\obj\Debug\net6.0\staticwebassets\msbuild.build.Taske 3 server react.props
+C:\Users\user\Desktop\oshrit\Studies\Year D\Semester A\Application\Task 3\Taske 3 server react\Taske 3 server react\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Taske 3 server react.props
+C:\Users\user\Desktop\oshrit\Studies\Year D\Semester A\Application\Task 3\Taske 3 server react\Taske 3 server react\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Taske 3 server react.props
+C:\Users\user\Desktop\oshrit\Studies\Year D\Semester A\Application\Task 3\Taske 3 server react\Taske 3 server react\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\user\Desktop\oshrit\Studies\Year D\Semester A\Application\Task 3\Taske 3 server react\Taske 3 server react\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user\Desktop\oshrit\Studies\Year D\Semester A\Application\Task 3\Taske 3 server react\Taske 3 server react\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user\Desktop\oshrit\Studies\Year D\Semester A\Application\Task 3\Taske 3 server react\Taske 3 server react\obj\Debug\net6.0\scopedcss\bundle\Taske 3 server react.styles.css
+C:\Users\user\Desktop\oshrit\Studies\Year D\Semester A\Application\Task 3\Taske 3 server react\Taske 3 server react\obj\Debug\net6.0\Taske 3 server react.csproj.CopyComplete
+C:\Users\user\Desktop\oshrit\Studies\Year D\Semester A\Application\Task 3\Taske 3 server react\Taske 3 server react\obj\Debug\net6.0\Taske 3 server react.dll
+C:\Users\user\Desktop\oshrit\Studies\Year D\Semester A\Application\Task 3\Taske 3 server react\Taske 3 server react\obj\Debug\net6.0\refint\Taske 3 server react.dll
+C:\Users\user\Desktop\oshrit\Studies\Year D\Semester A\Application\Task 3\Taske 3 server react\Taske 3 server react\obj\Debug\net6.0\Taske 3 server react.pdb
+C:\Users\user\Desktop\oshrit\Studies\Year D\Semester A\Application\Task 3\Taske 3 server react\Taske 3 server react\obj\Debug\net6.0\Taske 3 server react.genruntimeconfig.cache
+C:\Users\user\Desktop\oshrit\Studies\Year D\Semester A\Application\Task 3\Taske 3 server react\Taske 3 server react\obj\Debug\net6.0\ref\Taske 3 server react.dll
